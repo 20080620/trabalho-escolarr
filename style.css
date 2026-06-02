@@ -78,8 +78,17 @@ botao.ativo{
 }
 
 .aba-conteudo-titulo-principal{
-  
+  font-size: px;
+  text-aling: center;
 }
+
+.aba-conteudo-secundario{
+    text-aling: center;
+    color:var(--verde);
+    text-transform:uppercase ;
+}
+
+
 @media screen and (min-width: 768px) {
   /* Código omitido */
 
